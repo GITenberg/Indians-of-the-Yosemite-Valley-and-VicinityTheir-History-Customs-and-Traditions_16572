@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6800
     wikipedia: http://en.wikipedia.org/wiki/Galen_Clark
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16572#Indians-of-the-Yosemite-Valley-and-VicinityTheir-History-Customs-and-Traditions
 gutenberg_bookshelf:
 - Native America
 - Anthropology
